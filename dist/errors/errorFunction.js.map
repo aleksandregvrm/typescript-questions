@@ -1,0 +1,1 @@
+{"version":3,"file":"errorFunction.js","sourceRoot":"","sources":["../../src/errors/errorFunction.ts"],"names":[],"mappings":";;AAKA,MAAM,aAAa,GAAkB,CAAC,GAAG,EAAE,OAAO,EAAE,UAAU,EAAE,EAAE;IAC9D,OAAO,GAAG,CAAC,MAAM,CAAC,UAAU,CAAC,CAAC,IAAI,CAAC,EAAE,GAAG,EAAE,OAAO,EAAE,CAAC,CAAC;AACzD,CAAC,CAAC;AAEF,kBAAe,aAAa,CAAC"}
